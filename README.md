@@ -21,7 +21,7 @@ docker run -d \
 -e PASSWD=123456 \
 --name canvas \
 --hostname canvas \
-registry.cn-hangzhou.aliyuncs.com/xrsec/canvas:latest
+xrsec/canvas:latest
 ```
 
 ```ini
